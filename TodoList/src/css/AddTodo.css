@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  gap: 23px;
+}
+
+.formclass {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: antiquewhite;
+  padding: 15px;
+  border-radius: 5px;
+  gap: 3px;
+  
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}

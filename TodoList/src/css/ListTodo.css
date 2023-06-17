@@ -1,0 +1,12 @@
+:root {
+}
+.app-renderList {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: antiquewhite;
+  padding: 15px;
+  border-radius: 5px;
+  gap: 3px;
+  width: 233px;
+}
